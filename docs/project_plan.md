@@ -14,7 +14,6 @@ Analyse GP appointment access across England using NHS data to identify patterns
 - Excel / CSV inspection
 - Tableau
 - Python
-- حغ
 
 ## Planned Folders
 - data/raw: original source files
